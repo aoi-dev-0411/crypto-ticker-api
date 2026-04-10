@@ -44,6 +44,13 @@ sudo cp crypto-ticker.service /etc/systemd/system/
 sudo systemctl enable --now crypto-ticker
 ```
 
+## Donations
+
+If this project is useful to you, consider supporting development:
+
+- **ETH**: `0xa977ED7922703Bf4F9A14cFd27c56d3Cc571908C`
+- **SOL**: `3TcijsNw7kL97QmaLHNE8gDeKt177w4PsJd8XMWDQjUn`
+
 ## License
 
 MIT
