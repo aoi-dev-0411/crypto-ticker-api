@@ -1,0 +1,13 @@
+{
+  "name": "crypto-ticker-api",
+  "version": "1.0.0",
+  "description": "Lightweight crypto price & gas API - self-hostable on Raspberry Pi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": ["crypto", "api", "bitcoin", "ethereum", "gas", "raspberry-pi", "self-hosted"],
+  "author": "aoi-dev-0411",
+  "license": "MIT"
+}
